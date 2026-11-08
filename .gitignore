@@ -1,0 +1,41 @@
+
+# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Build directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Compiled C++ files
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.pch
+*.tlog
+*.lastbuildstate
+
+# Visual Studio generated files
+*.log
+*.recipe
+*.cache
+*.opendb
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
